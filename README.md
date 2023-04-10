@@ -1,4 +1,4 @@
-# Is_that_important
+# Dice Simulator in Python
 
 Just copy or dowload the file and run.. 
 And Good to go..
